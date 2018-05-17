@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Alexa and I go to EBS University.
 
 Things you may want to cover:
 
